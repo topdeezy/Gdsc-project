@@ -46,7 +46,11 @@ width:20% ;
 /* contacts page */
 #contacts{
   background-color: #EAF6F6;
-  padding: 8rem 20rem;
+  padding: 8rem;
+}
+.contacts-row{
+  width: 60%;
+  margin-left: 20%;
 }
 .info{
   color:#8f8f8f;
