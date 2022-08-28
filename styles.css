@@ -1,0 +1,88 @@
+body{
+  font-family: "Montserrat";
+
+}
+
+h1{
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Poppins";
+  font-weight: 500;
+  color:white;
+  padding:5rem 0;
+}
+h2{
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Poppins";
+  font-weight: 500;
+  padding:3rem 0 0 0;
+}
+/* index page */
+#index{
+  background-color:green;
+  padding-bottom: 20px;
+}
+.logo{
+  font-weight: bold;
+width:20% ;
+}
+.navbar{
+  background-color: green;
+  padding: 5px 15px;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.description-image{
+  padding-bottom: 10px;
+  border-radius: 50%;
+}
+.description{
+  color: white;
+  padding: 3% 15%;
+  text-align: center;
+}
+/* contacts page */
+#contacts{
+  background-color: #EAF6F6;
+  padding: 8rem 20rem;
+}
+.info{
+  color:#8f8f8f;
+}
+.icons-style{
+  font-size: 3rem;
+  padding-bottom: 4rem;
+}
+.icon{
+  color: grey;
+}
+.icon1:hover{
+  color: #C21010;
+}
+.icon2:hover{
+  color: blue;
+}
+.icon3:hover{
+  color: #F7EC09;
+}
+.icon4:hover{
+  color:green;
+}
+/* About-us Page */
+#about-us{
+
+  background-color:#EAF6F6;
+  padding: 7% 20%;
+  text-align: center;
+}
+#about-us img{
+width: 200px;
+  border-radius: 50%;
+}
+.story-link{
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
